@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "SIS",
+        "   "
+    ],
+    "key": {
+        "L": [
+            {
+                "item": "minecraft:leather"
+            },
+            {
+                "item": "minecraft:rabbit_hide"
+            }
+        ],
+        "I": [
+            {
+                "item": "minecraft:iron_nugget"
+            },
+            {
+                "item": "minecraft:gold_nugget"
+            },
+            {
+                "item": "minecraft:copper_ingot"
+            },
+            {
+                "item": "minecraft:netherite_scrap"
+            }
+        ],
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle"
+    }
+}
